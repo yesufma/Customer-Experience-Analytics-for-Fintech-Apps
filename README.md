@@ -53,7 +53,7 @@ fintech-app-analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fintech-app-analysis.git
+git clone [(https://github.com/yesufma/Customer-Experience-Analytics-for-Fintech-App)]
 cd fintech-app-analysis
 ```
 
