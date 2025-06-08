@@ -28,4 +28,21 @@ This repository contains the complete solution for analyzing customer reviews of
 ---
 
 ## Project Structure
-<pre> ```text fintech-app-analysis/ ├── task-1/ # Data Collection │ ├── scraper.py # Play Store scraper │ └── cleaner.py # Data preprocessing │ ├── task-2/ # Analysis │ ├── analysis.py # Main analysis script │ ├── outputs/ # Results (CSV/plots) │ └── README.md # Task-specific docs │ ├── task-3/ # Database │ ├── db_schema.sql # Oracle table definitions │ └── loader.py # Data import script │ ├── requirements.txt # Python dependencies └── README.md # This file ``` </pre>
+```
+fintech-app-analysis/
+├── task-1/                  # Data Collection
+│   ├── scraper.py          # Play Store scraper
+│   └── cleaner.py          # Data preprocessing
+│
+├── task-2/                  # Analysis
+│   ├── analysis.py         # Main analysis script
+│   ├── outputs/            # Results (CSV/plots)
+│   └── README.md           # Task-specific docs
+│
+├── task-3/                  # Database
+│   ├── db_schema.sql       # Oracle table definitions
+│   └── loader.py           # Data import script
+│
+├── requirements.txt         # Python dependencies
+└── README.md                # This file
+```
