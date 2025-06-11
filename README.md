@@ -88,7 +88,7 @@ python analysis.py
 
 ---
 
-## 🗃️ Database (Optional)
+## 🗃️ Database 
 
 To set up the database:
 ```sql
