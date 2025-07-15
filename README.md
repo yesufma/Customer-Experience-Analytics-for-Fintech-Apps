@@ -1,10 +1,10 @@
-# 💸 Fintech App Analysis – Multi-Stage Pipeline for App Insights
+#  Fintech App Analysis – Multi-Stage Pipeline for App Insights
 
 This repository contains a multi-step data pipeline to **scrape**, **clean**, **analyze**, and **visualize** fintech apps on the Play Store. It’s designed to uncover trends and generate insights for app developers, analysts, and investors in the fintech space.
 
 ---
 
-## 🧭 Project Structure
+##  Project Structure
 
 ```
 fintech-app-analysis/
@@ -27,9 +27,9 @@ fintech-app-analysis/
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 
-### ✅ Goal: Collect, process, and analyze fintech apps data from the Play Store
+###  Goal: Collect, process, and analyze fintech apps data from the Play Store
 
 - **Stage 1 – Data Collection**
   - Crawl fintech app metadata from Google Play Store
@@ -88,7 +88,7 @@ python analysis.py
 
 ---
 
-## 🗃️ Database 
+##  Database 
 
 To set up the database:
 ```sql
@@ -103,7 +103,7 @@ python loader.py
 
 ---
 
-## 📈 Output
+##  Output
 
 Analysis results and plots are saved in:
 
@@ -113,7 +113,7 @@ task-2/outputs/
 
 ---
 
-## 🧪 Key Features
+##  Key Features
 
 | Feature                | Implemented |
 |------------------------|-------------|
@@ -128,6 +128,6 @@ task-2/outputs/
 
 ---
 
-## 🙌 Acknowledgments
+##  Acknowledgments
 
 Developed as part of a hands-on data project for fintech trend analysis and app intelligence. Thanks to contributors and open-source tools that made this possible.
