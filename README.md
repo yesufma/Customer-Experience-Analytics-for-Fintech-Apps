@@ -104,6 +104,9 @@ python loader.py
 ---
 
 ##  Output
+<img width="853" height="413" alt="a" src="https://github.com/user-attachments/assets/f3988fd4-bdc7-4289-a86d-8196d6e48f9a" />
+<img width="1298" height="690" alt="b" src="https://github.com/user-attachments/assets/2846873e-faa0-46df-8524-d48922b0db9b" />
+
 
 Analysis results and plots are saved in:
 
